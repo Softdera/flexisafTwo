@@ -14,7 +14,7 @@ git push -u origin main
 // To Clone
 
 git clone https://github.com/Softdera/flexisafTwo.git
-cd version-control-practice
+
 
 
 // To Push 
@@ -57,7 +57,7 @@ git checkout main
 git merge feature-branch
 
 // Renaming Branches
-git branch -m old-branch-name new-branch-name
+git branch -m old-branch-feauture-branch new-branch-feature-branch
 
 // To Pull
 git pull origin main
